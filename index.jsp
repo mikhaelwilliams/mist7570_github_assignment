@@ -26,7 +26,7 @@
 			<td>H</td>
 		</tr>
 		<tr>
-			<td>Mikhael</td>
+			<td>Mikhael </td>
 			<td>W</td>
 		</tr>
 		<tr>
